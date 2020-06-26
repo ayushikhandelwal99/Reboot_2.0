@@ -1,1 +1,14 @@
+Problem #1 Block System call :
+block system call for date command
+that means you don't have to uninstall date command but if you run kernel must not accept
+do the same Firefox as well
 
+Solution-->
+I removed execution permission from date and firefox command by using :
+After this on running these command we get a message that permission denied.
+
+    sudo chmod  -x  /usr/bin/date
+    sudo chmod  -x /usr/bin/firefox
+
+But if someone wants no response not even a denial message then we have to uncomment following command
+    MOZ_DISABLE_LANGPACKS=1
