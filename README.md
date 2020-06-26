@@ -1,2 +1,4 @@
 # Reboot_2.0
-this includes solutions of tasks related to linux
+Extra learning I got while solving these problems
+
+1 .[PowerShell Constrained languages](https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/)
