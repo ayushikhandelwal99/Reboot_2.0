@@ -4,8 +4,8 @@ Problem #2 :  play with directory
  
 Solution-->
   for creating a directory without name i used:
-      mkdir " "
-  But if you try to make a directory with name -okgoogle it will not create a directory fo you, because in linux -o is a flag which is used to denote the name of output file.
+      mkdir ''$'\n'
+  But if you try to make a directory with name -okgoogle it will not create a directory for you, because in linux -o is a flag which is used to denote the name of output file.
   so for creating a file with such name you have to gve the full path where you want to create this directory.
-      mkdir /home/ayushikhandelwal/Desktop/-okgoogle
+      mkdir ./-okgoogle
   
