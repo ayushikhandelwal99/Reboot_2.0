@@ -20,3 +20,11 @@ the above task can be done using setfattr command which is to declare new attrib
   file: Greetings
   user.text="Hey this is a way to write in a directory"
   ```
+
+# Solution 1
+   
+# Solution 2
+<img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_2.png?raw=true">
+
+# Solution 3
+<img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_3.png?raw=true">
