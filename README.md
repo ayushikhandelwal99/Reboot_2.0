@@ -1,5 +1,5 @@
 # Reboot_2.0
-# Extra learning I got while solving these problems
+### Extra learning I got while solving these problems
 
 1 .[PowerShell Constrained languages](https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/)
 
@@ -7,7 +7,7 @@
 
 3 .[System and Administrative commands](https://tldp.org/LDP/abs/html/system.html)
 
-# How to write in a directory
+### How to write in a directory
 Directory is a kind of file that is used to map different (files) 
 we can not write something as a text in a directory as it is designed to store other files
 but we can add some extra file or directory information just like ACL permissions
@@ -21,12 +21,13 @@ the above task can be done using setfattr command which is to declare new attrib
   user.text="Hey this is a way to write in a directory"
   ```
 
-# Solution 1
+### Solution 1
    
-# Solution 2
+### Solution 2
 <img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_2.png?raw=true">
 
-# problem 3
+### problem 3
 <img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/problem_3.png?raw=true">
-# Solution 3
+
+### Solution 3
 <img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_3.png?raw=true">
