@@ -26,5 +26,7 @@ the above task can be done using setfattr command which is to declare new attrib
 # Solution 2
 <img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_2.png?raw=true">
 
+# problem 3
+<img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/problem_3.png?raw=true">
 # Solution 3
 <img src="https://github.com/ayushikhandelwal99/Reboot_2.0/blob/master/screenshots_of_solutions/Solution_3.png?raw=true">
