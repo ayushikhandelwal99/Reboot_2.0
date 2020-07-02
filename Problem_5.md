@@ -6,6 +6,7 @@
   - make sure it will only list the content (file|directory)  having 2 char in their name
   
 ### solution
+  - do cd to go to tmp directory in terminal
   - a file or directory with space in its name can be created by `firstname\ secondname\ so\ on`
   - `touch abc.txt ok\ fine g.txt` created 3 files
   - `mkdir a aa aaa aaaa` created 4 directories
