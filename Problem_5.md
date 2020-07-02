@@ -11,6 +11,6 @@
   - `touch abc.txt ok\ fine g.txt` created 3 files
   - `mkdir a aa aaa aaaa` created 4 directories
   - `ls` command have so many options in which `-d` is used to show files/directories of specific character length. 
-  - so for solving the question we used `ls -d ??` it means we need directory with two character length name only.
+  - so for solving the question we used `ls -d ??` it wil show files/directories having name with character length 2.
   
   <img src="https://i.ibb.co/C08JSZN/solution-5.png" alt="solution-5" border="0">
