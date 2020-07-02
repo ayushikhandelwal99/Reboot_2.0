@@ -1,7 +1,7 @@
 # Create a directory structure
 ### problem
   - *Note :   You are only allowed to use a single command and only one time*
-  <img src="https://i.ibb.co/Gc1B8RB/problem-3.png">
+  <img src="https://i.ibb.co/D56svQs/problem-3.png" alt="problem-3" border="0">
   
 ### solution
   - we can create nested folder using command `mkdir -p A/B/C`
