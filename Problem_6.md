@@ -9,5 +9,6 @@
   - for solving this problem we searched for the options of bash shell
   - we found an option `-D` it list double-quoted strings prefixed by $, but do not execute command in script
   - we run command `bash -D`
+  - we can also run `bash -n` here `-n` says noexec i.e. it syntax checkes the command but don't execute
  
  <img src="https://i.ibb.co/ryRk74p/solution-6.png" alt="solution-6" border="0">
