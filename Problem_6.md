@@ -10,4 +10,4 @@
   - we found an option `-D` it list double-quoted strings prefixed by $, but do not execute command in script
   - we run command `bash -D`
  
- <img src="https://ibb.co/0JRqDh9">
+ <img src="https://i.ibb.co/ryRk74p/solution-6.png" alt="solution-6" border="0">
