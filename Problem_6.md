@@ -5,5 +5,9 @@
   - you are not allowed to redirect output anywhere
   
 ### solution
-  - for this we can redirect the output to `any file` but as here it is prohibited so we will not do this
-  - 
+  - (for this we can redirect the output to `any file` but as here it is prohibited so we will not do this)
+  - for solving this problem we searched for the options of bash shell
+  - we found an option `-D` it list double-quoted strings prefixed by $, but do not execute command in script
+  - we run command `bash -D`
+ 
+ <img src="https://ibb.co/0JRqDh9">
