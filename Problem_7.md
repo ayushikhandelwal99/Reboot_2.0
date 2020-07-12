@@ -34,7 +34,7 @@
  ## Script delvex.sh
 ``` 
  #!/bin/bash
-
+re = '^[0-9]+$'
 if [ "$#" -eq 0 ]
 then
         echo "`uname`" 
@@ -45,7 +45,7 @@ then
 elif [ "$1" == 'user' ]
 then
         echo "`users`"
-elif [ "$1" == 100 ]
+elif [ "$1" == $re ]
 then
         x=$1
         while [ $x !=0 ]
