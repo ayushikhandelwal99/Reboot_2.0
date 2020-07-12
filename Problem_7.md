@@ -32,5 +32,36 @@
  *Note:    each output for last option must be in a separate line* 
  
  ## Script delvex.sh
- 
+``` 
+ #!/bin/bash
+
+if [ "$#" -eq 0 ]
+then
+        echo "`uname`" 
+        echo "`uname -r`"
+        echo "`date +%d/%m/%y`"
+        echo "`hostnamectl | head -7 | tail -1`"
+        echo "`who -b`"
+elif [ "$1" == 'user' ]
+then
+        echo "`users`"
+elif [ "$1" == 100 ]
+then
+        x=$1
+        while [ $x !=0 ]
+        do
+                echo Hello Delvex 
+                sleep 1
+                (($x--))
+        done
+elif [ "$1" == 'windows' ]
+then
+        echo "`shutdown now`"
+elif [ "$1" == "time" ]
+then
+        echo "`date +%T`"
+else
+        echo 'Give correct arguments'
+fi
+```
  
