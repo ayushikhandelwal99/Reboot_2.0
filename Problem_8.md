@@ -1,4 +1,4 @@
-# create a user will default settings
+# create a user with default settings
 
 ### problem
   - create a user name  delvex  and password of this user will be fedora
