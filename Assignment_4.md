@@ -9,7 +9,8 @@
 - write a script and run it
 	- `vim random.sh`
 	-
-	```#!/bin/bash
+	```
+		#!/bin/bash
 		read -p "How many random numbers do you want to generate? "  max
 		for((start=1; start <= $max; start++ ))
 		do
