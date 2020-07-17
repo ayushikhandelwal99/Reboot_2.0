@@ -8,4 +8,5 @@
   - default shell will be  /bin/sh 
 
 ### solution
+  - `useradd` command is used to add a new user 
 
