@@ -7,6 +7,8 @@
 
 3 .[System and Administrative commands](https://tldp.org/LDP/abs/html/system.html)
 
+4 .[Behind the scene: how commands execute](https://medium.com/@SergioPietri/behind-the-scenes-what-happens-when-you-execute-a-command-in-the-shell-9fef53832f6a)
+
 ### How to write in a directory
 Directory is a kind of file that is used to map different (files) 
 we can not write something as a text in a directory as it is designed to store other files
