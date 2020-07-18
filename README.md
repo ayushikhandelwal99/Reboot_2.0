@@ -24,23 +24,23 @@ the above task can be done using setfattr command which is to declare new attrib
   ```
   
  ## files
-     - /etc/passwd
-          - User account information.
+- /etc/passwd
+     - User account information.
 
-     - /etc/shadow
-          - Secure user account information.
+- /etc/shadow
+     - Secure user account information.
 
-     - /etc/group
-          - Group account information.
+- /etc/group
+     - Group account information.
 
-     - /etc/default/useradd
-          - Default values for account creation.
+- /etc/default/useradd
+     - Default values for account creation.
 
-     - /etc/skel/
-          - Directory containing default files.
+- /etc/skel/
+     - Directory containing default files.
 
-     - /etc/login.defs
-          - Shadow password suite configuration.
+- /etc/login.defs
+     - Shadow password suite configuration.
 
 ### Solution 1
    
