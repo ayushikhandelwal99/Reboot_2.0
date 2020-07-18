@@ -8,5 +8,19 @@
   - default shell will be  /bin/sh 
 
 ### solution
-  - `useradd` command is used to add a new user 
+  - `/etc/profile.d/` this directory contains mailbox files
+  - run following
+  ```
+  cat <<N /etc/profile.d/delvex.sh
+  if [ $USER == "delvex" ]
+  then
+          HISTSIZE=5000
+          HISTFILE=/home/delvex/myhist.txt
+          SHELL=/bin/sh
+          export HISTSIZE HISTFILE SHELL
+  fi
+  N
+  ```
+  - Now run `adduser delvex`
+  - This will create user delvex with above default settings
 
