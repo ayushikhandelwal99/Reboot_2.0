@@ -22,6 +22,25 @@ the above task can be done using setfattr command which is to declare new attrib
   file: Greetings
   user.text="Hey this is a way to write in a directory"
   ```
+  
+ ## files
+     - /etc/passwd
+          - User account information.
+
+     - /etc/shadow
+          - Secure user account information.
+
+     - /etc/group
+          - Group account information.
+
+     - /etc/default/useradd
+          - Default values for account creation.
+
+     - /etc/skel/
+          - Directory containing default files.
+
+     - /etc/login.defs
+          - Shadow password suite configuration.
 
 ### Solution 1
    
