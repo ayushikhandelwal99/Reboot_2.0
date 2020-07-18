@@ -7,8 +7,8 @@
 current=`pwd`
 if [ $# -eq 0 ]
 then
-    echo `ls -a $current  | grep '^\.'`
+    echo "`ls -a $current  | grep '^\.'`"
 else
-    ls -a $1 | grep '^\.'
+    echo "`ls -a $1 | grep '^\.'`"
 fi
 ```
