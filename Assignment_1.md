@@ -39,7 +39,10 @@ then
                 primefactors $num
         done
 else
-        primefactors $1
+       for i
+       do
+                primefactors $i
+       done
 fi
 
 
